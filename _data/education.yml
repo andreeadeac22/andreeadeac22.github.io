@@ -1,0 +1,29 @@
+# Education Template
+- layout: left
+  name: Mila / Université de Montréal
+  link: Montréal, Canada
+  dates: 2019 - Present
+  qualification: PhD in Machine Learning
+  description: | # this will include new lines to allow paragraphs
+    Graph representation learning with applications to drug discovery, supervised by Prof Jian Tang.
+
+- layout: left
+  name: University of Cambridge
+  link: Cambridge, United Kingdom
+  dates: 2018 - 2019
+  qualification: MEng in Computer Science
+  quote: |
+    Murray Edwards College <br/ >
+    Honours Pass *with Distinction*
+  description: | # this will include new lines to allow paragraphs
+    For my dissertation project, I have developed a novel conditional graph-variational autoencoder architecture for targeted drug design. 
+    
+- layout: left
+  name: University of Cambridge
+  link: Cambridge, United Kingdom
+  dates: 2015 - 2018
+  qualification: BA in Computer Science
+  quote: >
+    Murray Edwards College
+  description: | # this will include new lines to allow paragraphs
+    For my dissertation project, I leveraged neural network architectures to analyse which amino acids participate in antibody-antigen interactions.

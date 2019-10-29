@@ -1,0 +1,25 @@
+# Project template
+- layout: left
+  name: Empowering Graph Representation Learning with Paired Training and Graph Co-Attention
+  link: "Deac, A., Huang, YH., Veličković, P., Liò, P. and Tang, J."
+  quote: >
+    Submitted
+  description: | # this will include new lines to allow paragraph
+    We use graph co-attention in a paired graph training system for graph classification and regression.
+  
+- layout: left
+  name: Drug-Drug Adverse Effect Prediction with Graph Co-Attention
+  link: "Deac, A., Huang, YH., Veličković, P., Liò, P. and Tang, J."
+  quote: >
+    ICML 2019 Workshop on Computational Biology
+  description: | # this will include new lines to allow paragraphs
+    We propose a neural network architecture able to set state-of-the-art results on the drug-drug interaction (DDI) task---using the type of the side-effect and the molecular structure of the drugs alone---by leveraging a co-attentional mechanism.
+
+- layout: left
+  name: Attentive cross-modal paratope prediction
+  link: "Deac, A., Veličković, P. and Sormanni, P."
+  quote: >
+    Journal of Computational Biology (2019) <br />
+    ICML 2018 Workshop on Computational Biology (contributed talk)
+  description: | # this will include new lines to allow paragraphs
+    We use self and cross-modal attention to predict binding probabilities of antibody residues, obtaining state-of-the-art performance as well as new qualitative insights.

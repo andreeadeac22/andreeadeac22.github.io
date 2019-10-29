@@ -1,0 +1,31 @@
+# Project template
+- layout: left
+  name: Google Intern Award for Grace Hopper Celebration
+  link: 2019
+  quote: >
+    Full travel award for the 2019 Grace Hopper Celebration conference in Orlando, United States
+
+- layout: left
+  name: Google Prize for the Best Part III Research Project
+  link: 2019
+  quote: >
+    Best Computer Science Master's research project at the University of Cambridge for 2018-19
+ 
+- layout: left
+  name: Best presentation prize at Oxbridge Women in Computer Science Conference
+  link: 2019
+  quote: >
+    Awarded for my work on predicting drug-drug interactions (DDIs)
+
+- layout: left
+  name: Rising star prize at Oxbridge Women in Computer Science Conference
+  link: 2018
+  quote: >
+    Awarded for my work on antibody-antigen interaction prediction
+
+- layout: left
+  name: Paula Browne Scholarship from Murray Edwards College
+  link: 2018
+  quote: >
+    Awarded to up to four undergraduates per academic year
+    

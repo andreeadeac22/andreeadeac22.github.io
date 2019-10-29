@@ -1,0 +1,68 @@
+# Site
+repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
+# favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
+
+# Personal info
+name: Andreea Deac
+title: PhD Student, Mila / Université de Montréal
+email: andreeadeac22@gmail.com
+
+# Social links
+twitter_username: andreeadeac22
+github_username:  andreeadeac22
+linkedin_username: andreea-ioana-deac-76206510b
+scholar_username: E6zzj8kAAAAJ
+
+# About Section
+# about_title: About Me (Use this to override about section title)
+about_profile_image: 'aid25.jpeg'
+about_content: | # this will include new lines to allow paragraphs
+  PhD student in Machine Learning at [Mila](https://mila.quebec), with [Prof Jian Tang](https://www.jian-tang.com). Interested in graph neural networks and applications to biotechnology (especially drug discovery and drug interactions).
+  
+  Nu știu ce să scriu aici :))
+
+# Projects Section
+projects_title: Publications #(Use this to override about projects section title)
+
+# Experience Section
+# experience_title: Experience #(Use this to override about experience section title)
+
+# Education Section
+# education_title: Education #(Use this to override about education section title)
+
+# Awards Section
+# awards_title: Scholarships and Awards #(Use this to override about awards section title)
+
+# More Section
+# more_title: A Little More About Me #(Use this to override about more section title)
+more_content: | # this will include new lines to allow paragraphs
+  This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+
+  Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+
+# Footer
+footer_show_references: true
+
+# Build settings
+# theme: modern-resume-theme (Use this is you are hosting your resume yourself)
+# remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
+
+exclude : [
+  "Gemfile",
+  "Gemfile.lock",
+  "node_modules",
+  "vendor/bundle/",
+  "vendor/cache/",
+  "vendor/gems/",
+  "vendor/ruby/",
+  "lib/",
+  "scripts/",
+  "docker-compose.yml",
+  ]

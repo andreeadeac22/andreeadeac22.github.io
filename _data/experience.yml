@@ -1,0 +1,40 @@
+# Experience template
+- layout: left
+  company: Google
+  link: Zürich, Switzerland
+  job_title: Software Engineering Intern
+  dates: June - August 2019
+  quote: >
+   Ads Quality Team
+  description: | # this will include new lines to allow paragraphs
+    My project was focused on developing novel methodologies for keyword scoring.
+    
+- layout: left
+  company: Mila
+  link: Montréal, Canada
+  job_title: Research Intern
+  dates: June - September 2018
+  quote: >
+   Supervised by Prof Jian Tang
+  description: | # this will include new lines to allow paragraphs
+    I worked on graph-based neural networks for molecule generation and drug-drug side-effect prediction.
+    
+- layout: left
+  company: Google
+  link: Zürich, Switzerland
+  job_title: Software Engineering Intern
+  dates: July - September 2017
+  quote: >
+   Google Assistant Team
+  description: | # this will include new lines to allow paragraphs
+    My project consisted of implementing a new notifications feature end-to-end. My focus was on reminders in particular, using C++ on the back end side and Java/Android for front end.
+    
+- layout: left
+  company: Google
+  link: Stockholm, Sweden
+  job_title: STEP Intern 
+  dates: July - September 2016
+  quote: >
+   Google Hangouts Meet Team
+  description: | # this will include new lines to allow paragraphs
+    I worked on improving the testing infrastructure of the Android application. The project's goal was to do UI automation testing, which included working with Java, Python, Android, Espresso, dependency injection and Dagger.
