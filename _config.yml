@@ -19,7 +19,6 @@ about_profile_image: 'aid25.jpeg'
 about_content: | # this will include new lines to allow paragraphs
   PhD student in Machine Learning at [Mila](https://mila.quebec), with [Prof Jian Tang](https://www.jian-tang.com). Interested in graph neural networks and applications to biotechnology (especially drug discovery and drug interactions).
   
-  Nu știu ce să scriu aici :))
 
 # Projects Section
 projects_title: Publications #(Use this to override about projects section title)
