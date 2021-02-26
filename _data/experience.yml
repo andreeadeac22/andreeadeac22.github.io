@@ -1,12 +1,12 @@
 # Experience template
 -layout: left
-  company: Microsoft Research
-  job_title: Research Intern
-  date: September - December 2020
-  quote: >
-    Generative Chemistry Team
-  description: |
-    I analyzed the effectiveness of learning molecular representations conditioned on the information from the target proteins for the task of binding affinity prediction in a low-data scenario.
+ company: Microsoft Research
+ job_title: Research Intern
+ date: September - December 2020
+ quote: >
+   Generative Chemistry Team
+ description: |
+   I analyzed the effectiveness of learning molecular representations conditioned on the information from the target proteins for the task of binding affinity prediction in a low-data scenario.
     
 - layout: left
   company: Google
