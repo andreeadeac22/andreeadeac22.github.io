@@ -1,5 +1,29 @@
 # Project template
 - layout: left
+  name: XLVIN: eXecuted Latent Value Iteration Nets "https://arxiv.org/abs/2010.13146"
+  link: Deac, A., Veličković, P., Milinković, O., Bacon, PL., Tang, J. and Nikolić, M.
+  quote: > 
+    Deep Reinforcement Learning Workshop at NeurIPS 2020, Learning Meets Combinatorial Algorithms Workshop at NeurIPS 2020
+  description: | # this will include new lines to allow paragraph
+    We use a latent value iteration executor on a state graph derived using self-supervised learning to design an implicit-planner within deep reinforcement learning. 
+    
+- layout: left
+  name: Graph neural induction of value iteration
+  link: "Deac, A., Bacon, PL. and Tang, J."
+  quote: >
+    Graph Representation Learning and Beyond Workshop at ICML 2020
+  description: |
+    We propose a GNN-executor aimed at modelling the value iteration (VI) algorithm, across arbitrary environment models, with direct supervision on the intermediate steps of VI.
+
+- layout: left
+  name: Structured Multi-View Representations for Drug Combinations
+  link: "Liu*, S., Deac*, A., Zhu, Z. and Tang, J."
+  quote: >
+    Machine Learning for Molecules Workshop at NeurIPS 2020 
+  description: | # this will include new lines to allow paragraph
+    We introduce a multi-view framework for drug combinations which leverages information from the drugs’ chemical structure, while also matching the sets of the drugs' target proteins.
+    
+- layout: left
   name: Empowering Graph Representation Learning with Paired Training and Graph Co-Attention
   link: "Deac, A., Huang, YH., Veličković, P., Liò, P. and Tang, J."
   quote: >
