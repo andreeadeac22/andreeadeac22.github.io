@@ -1,6 +1,6 @@
 # Project template
 - layout: left
-  name: XLVIN: eXecuted Latent Value Iteration Nets "https://arxiv.org/abs/2010.13146"
+  name: XLVIN: eXecuted Latent Value Iteration Nets
   link: Deac, A., Veličković, P., Milinković, O., Bacon, PL., Tang, J. and Nikolić, M.
   quote: > 
     Deep Reinforcement Learning Workshop at NeurIPS 2020, Learning Meets Combinatorial Algorithms Workshop at NeurIPS 2020
