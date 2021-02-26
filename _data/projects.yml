@@ -27,7 +27,7 @@
   name: Empowering Graph Representation Learning with Paired Training and Graph Co-Attention
   link: "Deac, A., Huang, YH., Veličković, P., Liò, P. and Tang, J."
   quote: >
-    Submitted
+    Pre-print
   description: | # this will include new lines to allow paragraph
     We use graph co-attention in a paired graph training system for graph classification and regression.
   
