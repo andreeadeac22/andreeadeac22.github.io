@@ -1,5 +1,23 @@
 # Project template
 - layout: left
+  name: "Large-scale node classification with very deep GNNs"
+  link: "Addanki, R., Battaglia, P. w., Budden, D., Deac, A., Godwin, J., Li, W. L. S., Sachez-Gonzalez, A., Stott, J., Shantanu, T. and Veličković, P."
+  quote: > 
+    KDD Cup 2021
+    
+- layout: left
+  name: "Large-scale node classification with bootstrapping"
+  link: "Addanki, R., Battaglia, P. w., Budden, D., Deac, A., Godwin, J., Keck, T., Sachez-Gonzalez, A., Stott, J., Shantanu, T. and Veličković, P."
+  quote: > 
+    KDD Cup 2021
+    
+- layout: left
+  name: "Neural message passing for joint paratope-epitope prediction"
+  link: "Del Vecchio, A., Deac, A., Liò, P. and Veličković, P."
+  quote: > 
+    Computational Biology Workshop at ICML 2021
+  
+- layout: left
   name: "XLVIN:eXecuted Latent Value Iteration Nets"
   link: "Deac, A., Veličković, P., Milinković, O., Bacon, PL., Tang, J. and Nikolić, M."
   quote: > 
