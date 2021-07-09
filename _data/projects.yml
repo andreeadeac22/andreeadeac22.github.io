@@ -1,6 +1,6 @@
 # Project template
 - layout: left
-  name: "Large-scale node classification with very deep GNNs"
+  name: "Large-scale graph regression with very deep GNNs"
   link: "Addanki, R., Battaglia, P. w., Budden, D., Deac, A., Godwin, J., Li, W. L. S., Sachez-Gonzalez, A., Stott, J., Shantanu, T. and Veličković, P."
   quote: > 
     KDD Cup 2021
