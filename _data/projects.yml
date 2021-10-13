@@ -1,5 +1,17 @@
 # Project template
 - layout: left
+  name: "Neural Algorithmic Reasoners are Implicit Planners"
+  link: "Deac, A., Veličković, P., Milinković, O., Bacon, PL., Tang, J. and Nikolić, M."
+  quote: > 
+    NeurIPS 2021 Spotlight talk
+    
+- layout: left
+  name: "How to transfer algorithmic reasoning knowledge to learn new algorithms?"
+  link: "Xhonneux, L.-P. A. C., Deac, A., Veličković, P., Tang, J."
+  quote: > 
+    NeurIPS 2021
+    
+- layout: left
   name: "Large-scale graph regression with very deep GNNs"
   link: "Addanki, R., Battaglia, P. w., Budden, D., Deac, A., Godwin, J., Li, W. L. S., Sachez-Gonzalez, A., Stott, J., Shantanu, T. and Veličković, P."
   quote: > 
