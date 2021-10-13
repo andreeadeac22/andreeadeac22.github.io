@@ -1,5 +1,16 @@
 # Experience template
 - layout: left
+  company: DeepMind
+  link: London, UK
+  job_title: Research Scientist Intern
+  dates: March - July 2021
+  quote: >
+   Montréal team
+  description: |
+   I worked at the intersection of graph representation learning and reinforcement learning with Doina Precup.
+    
+    
+- layout: left
   company: Microsoft Research
   link: Cambridge, UK
   job_title: Research Intern
