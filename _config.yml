@@ -17,7 +17,7 @@ scholar_username: E6zzj8kAAAAJ
 # about_title: About Me (Use this to override about section title)
 about_profile_image: 'standard_picture_squarish.png'
 about_content: | # this will include new lines to allow paragraphs
-  PhD student in Machine Learning at [Mila](https://mila.quebec), with [Prof Jian Tang](https://www.jian-tang.com). I am broadly interested in how learning can be improved through the use of graph representations, having previously worked on algorithmic alignment for implicit planning and applications to biotechnology (drug discovery and drug combinations).
+  PhD student in Machine Learning at [Mila](https://mila.quebec), with [Prof Jian Tang](https://www.jian-tang.com). I am broadly interested in how learning can be improved through the use of graph representations, having previously worked on neural algorithmic reasoners for implicit planning and applications to biotechnology, focusing on drug discovery.
   
 
 # Projects Section
